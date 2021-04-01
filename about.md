@@ -14,7 +14,7 @@ permalink: /profile/
 
 Munich <br />
 
-Born 21.01.1991 <br />
+Born 21.01.91 <br />
 British
 
 <br />
@@ -23,19 +23,21 @@ British
 ---
 <br />
 ### User Researcher
-[xbAV, Munich](www.xbav.de)<br />
-04.2019 – Today
+[xbAV, Munich](http://www.xbav.de/)<br />
+04.19 – Today
 
 ### User Experience Designer
-[xbAV, Munich](www.xbav.de)<br />
-6.2016 – 03.2019
+[xbAV, Munich](http://www.xbav.de/)<br />
+6.16 – 03.19
 ### Graphic Designer
-[Keller Maurer Design, Munich](www.km-d.com)<br />
-09.2015 – 03.2016  
+[Keller Maurer Design, Munich](http://www.km-d.com/)<br />
+09.15 – 03.16  
 ### Carpenter
 [Rainer Spehl, Berlin](http://www.rainerspehl.com/)<br />
-05.2013 – 06.2015 
+05.13 – 06.15 
 ### Carpenter
-[John Hollis Furniture, Brighton](http://www.johnhollis.co.uk/)<br />
-05.2013 – 06.2015 
+John Hollis Furniture, Brighton<br />
+05.13 – 06.15 
+
+
 

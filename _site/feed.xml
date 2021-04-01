@@ -1,1 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/portfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/portfolio/" rel="alternate" type="text/html" /><updated>2021-03-26T14:07:45+01:00</updated><id>http://localhost:4000/portfolio/feed.xml</id><title type="html">Tom Kingdom</title><entry><title type="html">👋🏻</title><link href="http://localhost:4000/portfolio/2016/08/01/test.html" rel="alternate" type="text/html" title="👋🏻" /><published>2016-08-01T00:00:00+02:00</published><updated>2016-08-01T00:00:00+02:00</updated><id>http://localhost:4000/portfolio/2016/08/01/test</id><content type="html" xml:base="http://localhost:4000/portfolio/2016/08/01/test.html">&lt;p&gt;👋🏻&lt;/p&gt;</content><author><name></name></author><summary type="html">👋🏻</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/portfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/portfolio/" rel="alternate" type="text/html" /><updated>2021-03-27T15:52:16+01:00</updated><id>http://localhost:4000/portfolio/feed.xml</id><title type="html">Tom Kingdom</title><entry><title type="html">Course learning</title><link href="http://localhost:4000/portfolio/2020/08/01/course-learning.html" rel="alternate" type="text/html" title="Course learning" /><published>2020-08-01T00:00:00+02:00</published><updated>2020-08-01T00:00:00+02:00</updated><id>http://localhost:4000/portfolio/2020/08/01/course%20learning</id><content type="html" xml:base="http://localhost:4000/portfolio/2020/08/01/course-learning.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Should designers code?</title><link href="http://localhost:4000/portfolio/2017/01/01/product-designers-code.html" rel="alternate" type="text/html" title="Should designers code?" /><published>2017-01-01T00:00:00+01:00</published><updated>2017-01-01T00:00:00+01:00</updated><id>http://localhost:4000/portfolio/2017/01/01/product-designers-code</id><content type="html" xml:base="http://localhost:4000/portfolio/2017/01/01/product-designers-code.html">&lt;p&gt;Yes. Designers who sit within a feature team gain large advantages if they can code. Here are three reasons why.&lt;/p&gt;
+
+&lt;h4 id=&quot;-shared-vocabulary&quot;&gt;❶ Shared vocabulary&lt;/h4&gt;
+
+&lt;p&gt;It creates a “shared vocabulary between engineering and design” ¹. When engineers talk about changes that need to be made and shipping fixes to customers, the design team are no longer left scratching their heads. &lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;-tickets-are-done-quicker&quot;&gt;❷ Tickets are done quicker&lt;/h4&gt;
+
+&lt;p&gt;Everyone does code reviews. Designers now get hands-on when reviewing pull requests, requesting and reviewing screenshots/gifs and sitting with engineers to desk-review implementations. They’re now creating their own pull requests 💪².&lt;/p&gt;
+
+&lt;h4 id=&quot;-small-changes-are-no-longer-blocked-by-busy-engineers&quot;&gt;❸ Small changes are no longer blocked by busy engineers&lt;/h4&gt;
+
+&lt;p&gt;I would be more effective if I didn’t have to wait for other people… …I ended up becoming more effective because I was able to ship the small things and fix bugs myself². Text changes. Translations file.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h6 id=&quot;-bryn-jackson-design-details-podcast&quot;&gt;¹ &lt;a href=&quot;https://designdetails.fm/&quot;&gt;Bryn Jackson, Design Details Podcast&lt;/a&gt;&lt;/h6&gt;
+
+&lt;h6 id=&quot;-lorcan-coyle-shipping-code-for-designers-not-just-engineers&quot;&gt;² &lt;a href=&quot;https://blog.intercom.com/shipping-code-designers/&quot;&gt;Lorcan Coyle, Shipping code for designers, not just engineers&lt;/a&gt;&lt;/h6&gt;</content><author><name></name></author><summary type="html">Yes. Designers who sit within a feature team gain large advantages if they can code. Here are three reasons why.</summary></entry><entry><title type="html">Three Legged Stool</title><link href="http://localhost:4000/portfolio/2016/08/01/three-legged-stool.html" rel="alternate" type="text/html" title="Three Legged Stool" /><published>2016-08-01T00:00:00+02:00</published><updated>2016-08-01T00:00:00+02:00</updated><id>http://localhost:4000/portfolio/2016/08/01/three-legged-stool</id><content type="html" xml:base="http://localhost:4000/portfolio/2016/08/01/three-legged-stool.html">&lt;p&gt;Fuse Engineering, Product and Design from the start. Fuse Engineering, Product and Design from the start. Fuse Engineering, Product and Design from the start. Fuse Engineering, Product and Design from the start. Fuse Engineering, Product and Design from the start. Fuse Engineering, Product and Design from the start. Fuse Engineering, Product and Design from the start. Fuse Engineering, Product and Design from the start.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;postimage&quot; width=&quot;50%&quot; src=&quot;../../../assets/three-legged-stool-2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Fuse Engineering, Product and Design from the start. Fuse Engineering, Product and Design from the start. Fuse Engineering, Product and Design from the start. Fuse Engineering, Product and Design from the start. Fuse Engineering, Product and Design from the start. Fuse Engineering, Product and Design from the start. Fuse Engineering, Product and Design from the start. Fuse Engineering, Product and Design from the start.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;postimage&quot; width=&quot;50%&quot; src=&quot;../../../assets/three-legged-stool.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h6 id=&quot;-laura-daly-collaborative-design-in-agile-teams&quot;&gt;¹ &lt;a href=&quot;https://www.atlassian.com/agile/design/collaborative-design-in-agile-teams-video&quot;&gt;Laura Daly, Collaborative design in agile teams&lt;/a&gt;&lt;/h6&gt;
+
+&lt;h6 id=&quot;-invision-envato-agile-ux-team&quot;&gt;² &lt;a href=&quot;http://blog.invisionapp.com/envato-agile-ux-team/&quot;&gt;Invision, Envato Agile UX Team&lt;/a&gt;&lt;/h6&gt;
+
+&lt;h6 id=&quot;-universal-mind-burn-the-baton--feature-teams-run-in-parallel&quot;&gt;³ &lt;a href=&quot;http://www.universalmind.com/blog/burn-the-baton-feature-teams-run-in-parallel/&quot;&gt;Universal Mind, Burn the baton – feature teams run in parallel&lt;/a&gt;&lt;/h6&gt;</content><author><name></name></author><summary type="html">Fuse Engineering, Product and Design from the start. Fuse Engineering, Product and Design from the start. Fuse Engineering, Product and Design from the start. Fuse Engineering, Product and Design from the start. Fuse Engineering, Product and Design from the start. Fuse Engineering, Product and Design from the start. Fuse Engineering, Product and Design from the start. Fuse Engineering, Product and Design from the start.</summary></entry><entry><title type="html">Role of a Product Designer</title><link href="http://localhost:4000/portfolio/2016/07/12/ux-design-role-copy.html" rel="alternate" type="text/html" title="Role of a Product Designer" /><published>2016-07-12T00:00:00+02:00</published><updated>2016-07-12T00:00:00+02:00</updated><id>http://localhost:4000/portfolio/2016/07/12/ux-design-role%20copy</id><content type="html" xml:base="http://localhost:4000/portfolio/2016/07/12/ux-design-role-copy.html">&lt;p&gt;Soon after starting my first job as a UX Designer, I took the oppurtunity to clarify what my role and responsibilities were to be.&lt;/p&gt;
+
+&lt;p&gt;UX design sits at the intersection between business and customer. Each has different needs and goals and speaks a different language.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The designers job is to find the overlap between the business and the customer, and push them towards each other.¹&lt;/li&gt;
+  &lt;li&gt;The designers job is to design with users, not for users. Understanding problems as users see them. Talk to customers about how they achieve their aims, observe how they solves problems.¹&lt;/li&gt;
+  &lt;li&gt;The designers job is to design with users with the business, not for the business. (?)&lt;/li&gt;
+  &lt;li&gt;The designers job is to work alongside the product team on preparing just enough for the sprints ahead.²&lt;/li&gt;
+  &lt;li&gt;The designers job is to collaborate with the developers and share their goal for the sprint.²&lt;/li&gt;
+  &lt;li&gt;The designers job is to continually research into users needs in order to guide the investigation into possible future product directions.²&lt;/li&gt;
+  &lt;li&gt;The designer has a committed time allocation of about 60% supporting the sprint and 40% defining the work ahead.³&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h6 id=&quot;-laura-daly-collaborative-design-in-agile-teams&quot;&gt;¹ &lt;a href=&quot;https://www.atlassian.com/agile/design/collaborative-design-in-agile-teams-video&quot;&gt;Laura Daly, Collaborative design in agile teams&lt;/a&gt;&lt;/h6&gt;
+
+&lt;h6 id=&quot;-chris-thelwell-envato-agile-ux-team&quot;&gt;² &lt;a href=&quot;http://blog.invisionapp.com/envato-agile-ux-team/&quot;&gt;Chris Thelwell, Envato Agile UX Team&lt;/a&gt;&lt;/h6&gt;
+
+&lt;h6 id=&quot;-evan-ames-burn-the-baton--feature-teams-run-in-parallel&quot;&gt;³ &lt;a href=&quot;https://uxdesign.cc/burn-the-baton-feature-teams-run-in-parallel-dd929f5e2197&quot;&gt;Evan Ames, Burn the baton – feature teams run in parallel&lt;/a&gt;&lt;/h6&gt;</content><author><name></name></author><summary type="html">Soon after starting my first job as a UX Designer, I took the oppurtunity to clarify what my role and responsibilities were to be.</summary></entry><entry><title type="html">Is anybody out there?</title><link href="http://localhost:4000/portfolio/2016/01/01/first-post.html" rel="alternate" type="text/html" title="Is anybody out there?" /><published>2016-01-01T00:00:00+01:00</published><updated>2016-01-01T00:00:00+01:00</updated><id>http://localhost:4000/portfolio/2016/01/01/first-post</id><content type="html" xml:base="http://localhost:4000/portfolio/2016/01/01/first-post.html">&lt;p&gt;Inspired by week notes. I’ve been writing up notes for a while but never published them. I like the transparency of some designers. I forgot the things I don’t write down. This serves as a reference.&lt;/p&gt;
+
+&lt;p&gt;This post is backed dated. I want it to sit at the start.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;postimage&quot; width=&quot;80%&quot; src=&quot;../../../assets/first-post.jpg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Inspired by week notes. I’ve been writing up notes for a while but never published them. I like the transparency of some designers. I forgot the things I don’t write down. This serves as a reference.</summary></entry></feed>
