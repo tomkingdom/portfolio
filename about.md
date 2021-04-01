@@ -8,7 +8,7 @@ permalink: /profile/
     <img class="profile" src="../assets/tomkingdom.jpg"/>   
 </span>
 
-[tomkingdom@gmail.com](mailto:tomkingdom@gmail.com)
+[tomkingdom@gmail.com](mailto:t@tomkingdom.com)
  <br />
 [LinkedIn](https://www.linkedin.com/in/tom-kingdom-041212142/)
 
