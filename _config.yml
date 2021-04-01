@@ -17,7 +17,7 @@ title: Tom Kingdom
 email: tomkingdom@gmail.com
 description:  # this means to ignore newlines until "baseurl:"
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
-url: "http://tomkingdom.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tomkingdom.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings

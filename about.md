@@ -23,17 +23,17 @@ British
 ---
 <br />
 ### User Researcher
-[xbAV, Munich](http://www.xbav.de/)<br />
+[xbAV, Munich](https://www.xbav.de/)<br />
 04.19 – Today
 
 ### User Experience Designer
-[xbAV, Munich](http://www.xbav.de/)<br />
+[xbAV, Munich](https://www.xbav.de/)<br />
 6.16 – 03.19
 ### Graphic Designer
-[Keller Maurer Design, Munich](http://www.km-d.com/)<br />
+[Keller Maurer Design, Munich](https://www.km-d.com/)<br />
 09.15 – 03.16  
 ### Carpenter
-[Rainer Spehl, Berlin](http://www.rainerspehl.com/)<br />
+[Rainer Spehl, Berlin](https://www.rainerspehl.com/)<br />
 05.13 – 06.15 
 ### Carpenter
 John Hollis Furniture, Brighton<br />
