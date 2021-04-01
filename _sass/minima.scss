@@ -167,6 +167,7 @@ font-display: block;
 src: url("font-files/Inter-Black.woff2?v=3.18") format("woff2"),
      url("font-files/Inter-Black.woff?v=3.18") format("woff");
 }
+
 @font-face {
 font-family: 'Inter';
 font-style:  italic;
@@ -179,11 +180,12 @@ src: url("font-files/Inter-BlackItalic.woff2?v=3.18") format("woff2"),
 
 // Define defaults for each variable.
 
-:root { $base-font-family: 'Inter', sans-serif; }
+:root { font-family: 'Inter', sans-serif; }
   @supports (font-variation-settings: normal) {
-    :root { $base-font-family: 'Inter var', sans-serif; }
+    :root { font-family: 'Inter var', sans-serif; }
   }
-
+  
+$base-font-family: 'Inter var', "Inter", sans-serif;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
