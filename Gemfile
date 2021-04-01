@@ -19,7 +19,6 @@ gem "github-pages", "~> 213", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 
-
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
