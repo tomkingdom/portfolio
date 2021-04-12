@@ -135,6 +135,7 @@
 .post-list {
   margin-left: 0;
   padding-left: 0;
+  margin-top: 0;
   list-style: none;
 
   > li {
@@ -192,15 +193,26 @@
 
   h4 {
     @include relative-font-size(1.25);
+    margin-top: $spacing-unit;
 
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
+    }
+  }
+
+  h5 {
+    @include relative-font-size(0.8);
+    margin-top: $spacing-unit;
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(0.8);
     }
   }
 }
 
 .postimage {
   border: 1px solid black;
+  margin-top: $spacing-unit / 2;
 }
 
 .profilecontain {

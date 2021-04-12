@@ -31,7 +31,7 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, figure { margin: 0
 hr { height: 0; margin: 15px 0; overflow: hidden; background: transparent; border: 0; border-bottom: 2px solid #e8e8e8; }
 
 /** Basic styling */
-body { font: 400 16px/1.5 "Inter var", "Inter", sans-serif; color: #111; background-color: #fcfcfc; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
+body { font: 400 18px/1.5 "Inter var", "Inter", sans-serif; color: #111; background-color: #fcfcfc; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px; }
@@ -45,7 +45,7 @@ img { max-width: 100%; vertical-align: middle; }
 /** Figures */
 figure > img { display: block; }
 
-figcaption { font-size: 14px; }
+figcaption { font-size: 15.75px; }
 
 /** Ordered List */
 ol { padding-left: 1em; margin-left: 0; }
@@ -70,9 +70,9 @@ h3 { font-weight: 600; }
 
 h4 { font-weight: 600; }
 
-h5 { font-weight: 600; color: #828282; }
+h5 { font-weight: 500; color: #828282; }
 
-h6 { font-weight: 400; color: #111; font-size: 12.8px; margin-bottom: 6px; }
+h6 { font-weight: 400; color: #111; font-size: 14.4px; margin-bottom: 6px; }
 
 /** Links */
 a { color: #111; text-decoration: underline; text-decoration-color: lightblue; }
@@ -86,7 +86,7 @@ blockquote { color: #828282; border-left: 4px solid #e8e8e8; padding-left: 15px;
 blockquote > :last-child { margin-bottom: 0; }
 
 /** Code formatting */
-pre, code { font-size: 15px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #eef; }
+pre, code { font-size: 16.875px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #eef; }
 
 code { padding: 1px 5px; }
 
@@ -116,10 +116,10 @@ table td { border: 1px solid #e8e8e8; }
 /** Site header */
 .site-header { min-height: 55.95px; position: relative; }
 
-.site-title { font-size: 26px; font-weight: 300; line-height: 54px; letter-spacing: -1px; margin-bottom: 0; float: left; }
+.site-title { font-size: 29.25px; font-weight: 300; line-height: 60.75px; letter-spacing: -1px; margin-bottom: 0; float: left; }
 .site-title, .site-title:visited { color: #424242; }
 
-.site-nav { float: left; line-height: 72px; }
+.site-nav { float: left; line-height: 81px; }
 .site-nav .nav-trigger { display: none; }
 .site-nav .menu-icon { display: none; }
 .site-nav .page-link { line-height: 1.5; }
@@ -128,11 +128,11 @@ table td { border: 1px solid #e8e8e8; }
 /** Site footer */
 .site-footer { padding-top: 300px; padding: 30px 0; }
 
-.footer-heading { font-size: 18px; margin-bottom: 15px; }
+.footer-heading { font-size: 20.25px; margin-bottom: 15px; }
 
 .contact-list, .social-media-list { list-style: none; margin-left: 0; }
 
-.footer-col-wrapper { font-size: 15px; color: #828282; margin-left: -15px; }
+.footer-col-wrapper { font-size: 16.875px; color: #828282; margin-left: -15px; }
 
 .footer-col { float: left; margin-bottom: 15px; padding-left: 15px; }
 
@@ -148,32 +148,34 @@ table td { border: 1px solid #e8e8e8; }
 /** Page content */
 .page-content { flex: 1; padding-top: 15px; }
 
-.page-heading { font-size: 32px; }
+.page-heading { font-size: 36px; }
 
-.post-list-heading { font-size: 28px; }
+.post-list-heading { font-size: 31.5px; }
 
-.post-list { margin-left: 0; padding-left: 0; list-style: none; }
+.post-list { margin-left: 0; padding-left: 0; margin-top: 0; list-style: none; }
 .post-list > li { list-style: none; margin-bottom: 6px; }
 
-.post-meta { font-size: 14px; color: #828282; }
+.post-meta { font-size: 15.75px; color: #828282; }
 
 .post-link { margin: 0px !important; }
 
 /** Posts */
 .post-header { margin-bottom: 30px; }
 
-.post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; }
-@media screen and (max-width: 800px) { .post-title { font-size: 36px; } }
+.post-title { font-size: 47.25px; letter-spacing: -1px; line-height: 1; }
+@media screen and (max-width: 800px) { .post-title { font-size: 40.5px; } }
 
 .post-content { margin-bottom: 30px; }
-.post-content h2 { font-size: 32px; }
-@media screen and (max-width: 800px) { .post-content h2 { font-size: 28px; } }
-.post-content h3 { font-size: 26px; }
-@media screen and (max-width: 800px) { .post-content h3 { font-size: 22px; } }
-.post-content h4 { font-size: 20px; }
-@media screen and (max-width: 800px) { .post-content h4 { font-size: 18px; } }
+.post-content h2 { font-size: 36px; }
+@media screen and (max-width: 800px) { .post-content h2 { font-size: 31.5px; } }
+.post-content h3 { font-size: 29.25px; }
+@media screen and (max-width: 800px) { .post-content h3 { font-size: 24.75px; } }
+.post-content h4 { font-size: 22.5px; margin-top: 30px; }
+@media screen and (max-width: 800px) { .post-content h4 { font-size: 20.25px; } }
+.post-content h5 { font-size: 14.4px; margin-top: 30px; }
+@media screen and (max-width: 800px) { .post-content h5 { font-size: 14.4px; } }
 
-.postimage { border: 1px solid black; }
+.postimage { border: 1px solid black; margin-top: 15px; }
 
 .profilecontain { float: left; padding-top: 0.5em; padding-left: 0.5em; padding-right: 1.5em; padding-bottom: 1em; }
 
