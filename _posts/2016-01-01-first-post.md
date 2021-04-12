@@ -27,4 +27,4 @@ At best, the act of documenting ones own thoughts and work will be of help to ot
 
 ---
 
-##### * I've been writing up notes for a while but never posted any of them. In order to match my thoughts to the time in which I initialy wrote them I will backdate any posts before April 2021. This post has also been backdated so that it sits at the start of the post list.
+##### * I've been writing up notes for a while but have never posted any of them. In order to match my older notes to the time in which I initialy wrote them I will backdate anything written before April 2021. This post has also been backdated so that it sits at the start of the post list.
