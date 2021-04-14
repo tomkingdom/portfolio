@@ -28,7 +28,7 @@ British
 
 ### User Experience Designer
 [XEMPUS, Munich](https://www.xempus.com/)<br />
-6.16 – 03.19
+06.16 – 03.19
 ### Graphic Designer
 [Keller Maurer Design, Munich](https://www.km-d.com/)<br />
 09.15 – 03.16  
