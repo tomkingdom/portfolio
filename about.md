@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Profile
-permalink: /profile/
+title: Work
+permalink: /work/
 ---
 
 ### User Researcher
@@ -13,13 +13,13 @@ permalink: /profile/
 06.16 – 03.19
 ### Graphic Designer
 [Keller Maurer Design, Munich](https://www.km-d.com/)<br />
-09.15 – 03.16  
+09.15 – 03.16
 ### Carpenter
 [Rainer Spehl, Berlin](https://www.rainerspehl.com/)<br />
-05.13 – 06.15 
+05.13 – 06.15
 ### Carpenter
 John Hollis Furniture, Brighton<br />
-05.13 – 06.15 
+05.13 – 06.15
 
 
 
