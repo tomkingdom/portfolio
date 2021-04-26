@@ -175,7 +175,7 @@ table td { border: 1px solid #e8e8e8; }
 
 .postimage { border: 1px solid black; margin-top: 15px; }
 
-.profilecontain { float: left; padding-top: 0.5em; padding-left: 0.5em; padding-right: 1.5em; padding-bottom: 1em; }
+.profilecontain { float: left; padding-top: 0.5em; padding-left: 0.5em; padding-right: 1.5em; padding-bottom: 1em; width: 100%; }
 
 .profile { width: 100%; max-width: 9em; border-radius: 100%; margin-bottom: 2rem; margin-left: -0.3em; -webkit-animation: spin 60s linear infinite; -moz-animation: spin 60s linear infinite; animation: spin 60s linear infinite; }
 

@@ -4,24 +4,6 @@ title: Profile
 permalink: /profile/
 ---
 
-<span class="profilecontain">
-    <img class="profile" src="../assets/tomkingdom.jpg"/>   
-</span>
-
-[t@tomkingdom.com](mailto:t@tomkingdom.com)
- <br />
-[LinkedIn](https://www.linkedin.com/in/tom-kingdom-041212142/)
-
-Munich <br />
-
-Born 21.01.91 <br />
-British
-
-<br />
-<br />
-
----
-<br />
 ### User Researcher
 [XEMPUS, Munich](https://www.xempus.com/)<br />
 04.19 – Today

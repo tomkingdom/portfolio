@@ -213,6 +213,7 @@
   padding-left: 0.5em;
   padding-right: 1.5em; 
   padding-bottom: 1em;
+  width: 100%;
 }
 .profile {
    
@@ -230,3 +231,4 @@
   @-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
   @keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
 
+  
