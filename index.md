@@ -9,7 +9,7 @@ permalink: /
 
 
 
-## Hello, I'm Tom. I'm a user experience designer and researcher living from in Munich, Germany. 
+## Hello, I'm Tom. I'm a user experience designer and researcher based in Munich, Germany. 
 ## You can find me on [LinkedIn](https://www.linkedin.com/in/tom-kingdom-041212142/) or get in touch at [t@tomkingdom.com](mailto:t@tomkingdom.com).
 
 
