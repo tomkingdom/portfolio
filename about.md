@@ -4,9 +4,13 @@ title: Work
 permalink: /work/
 ---
 
+### Senior User Researcher
+[Cazoo, Munich](https://www.cazoo.co.uk/)<br />
+10.21 – Today
+
 ### User Researcher
 [XEMPUS, Munich](https://www.xempus.com/)<br />
-04.19 – Today
+04.19 – 09.21
 
 ### User Experience Designer
 [XEMPUS, Munich](https://www.xempus.com/)<br />
