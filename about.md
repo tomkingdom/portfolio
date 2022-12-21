@@ -4,8 +4,12 @@ title: Work
 permalink: /work/
 ---
 
+### Senior Product Designer
+[FTAPI, Munich](https://www.ftapi.com/)<br />
+10.21 – Today
+
 ### Senior User Researcher
-[Cazoo, Munich](https://www.cazoo.co.uk/)<br />
+[Cazoo, London and Munich](https://www.cazoo.co.uk/)<br />
 10.21 – Today
 
 ### User Researcher
