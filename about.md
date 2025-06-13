@@ -6,11 +6,11 @@ permalink: /work/
 
 ### Senior Product Designer
 [FTAPI, Munich](https://www.ftapi.com/)<br />
-10.21 – Today
+10.22 – Today
 
 ### Senior User Researcher
 [Cazoo, London and Munich](https://www.cazoo.co.uk/)<br />
-10.21 – Today
+10.21 – 06.22
 
 ### User Researcher
 [XEMPUS, Munich](https://www.xempus.com/)<br />
